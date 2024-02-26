@@ -1,4 +1,10 @@
 ### Hi there 👋
+- 🚴‍♂️ I'm riding a bike
+- 🏃‍♂️ I'm running
+- 👨‍💻 I'm coding
+- ✍️ I'm blogging at https://kungfux.github.io/
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=kungfux&include_all_commits=true)](https://github-readme-stats.vercel.app/api?username=kungfux&include_all_commits=true)
 
 <!--
 **kungfux/kungfux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
