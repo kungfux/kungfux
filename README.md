@@ -1,9 +1,24 @@
-### Hi there 👋
-- 🚴‍♂️ I'm riding a bike
-- 🏃‍♂️ I'm running
-- 👨‍💻 I'm coding
-- ✍️ I'm blogging at https://kungfux.github.io/
+<img src="https://komarev.com/ghpvc/?username=kungfux&label=Profile%20views&color=blue&style=flat&abbreviated=true" alt="Profile views" align="right" />
 
-![kungfux's Stats](https://github-readme-stats.vercel.app/api?username=kungfux&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![kungfux's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kungfux&theme=vue-dark&hide_border=true)
-![kungfux's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kungfux&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+### 📈 GitHub Stats
+
+<div align="center">
+ <table border="0">
+  <tr>
+   <td>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kungfux&theme=vue-dark&hide_border=true&count_private=true&show_icons=true&locale=en" alt="GitHub Stats" />
+   </td>
+   <td>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kungfux&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
+   </td>
+  </tr>
+ </table>
+</div>
+
+### 🏆GitHub Trophy
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kungfux" alt="asd" /></a> </p>
+
+### ✍️ Latest posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
