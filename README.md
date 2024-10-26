@@ -21,4 +21,8 @@
 
 ### ✍️ Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Easy software updates](https://kungfux.github.io/posts/easy-software-updates/)
+- [YARP Transformations](https://kungfux.github.io/posts/yarp-transformations/)
+- [Custom web application for existing service](https://kungfux.github.io/posts/custom-web-application-for-existing-service/)
+- [Dive into development](https://kungfux.github.io/posts/dive-into-development/)
 <!-- BLOG-POST-LIST:END -->
