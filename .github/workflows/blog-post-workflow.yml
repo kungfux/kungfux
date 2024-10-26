@@ -1,8 +1,10 @@
 name: Update blog posts
 on:
-  workflow_dispatch:
   schedule:
     - cron: "0 0 * * 1"
+
+  workflow_dispatch:
+
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts

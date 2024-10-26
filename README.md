@@ -40,3 +40,7 @@
 ### 🔝 Top Contributions
 
 ![](https://github-contributor-stats.vercel.app/api?username=kungfux&limit=4&combine_all_yearly_contributions=true&theme=city_lights) -->
+
+### 🛠️ Contributions
+
+<img src="https://raw.githubusercontent.com/kungfux/kungfux/output/snake.svg" alt="An animation of snake eating the github user contributions (like snake game)" />
