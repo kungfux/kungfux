@@ -12,18 +12,22 @@
 
 ### 📈 GitHub Stats
 
-<div align="center">
+<div>
  <table border="0">
   <tr>
    <td>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kungfux&theme=vue-dark&hide_border=true&count_private=true&show_icons=true&locale=en" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kungfux&theme=vue-dark&hide_border=true&count_private=true&show_icons=true&locale=en" alt="GitHub Stats" />
    </td>
    <td>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kungfux&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kungfux&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
    </td>
   </tr>
  </table>
 </div>
+
+### 🛠️ Contributions
+
+<img src="https://raw.githubusercontent.com/kungfux/kungfux/output/snake.svg" alt="An animation of snake eating the github user contributions (like snake game)" />
 
 <!-- ### 🏆GitHub Trophy
 
@@ -40,7 +44,3 @@
 ### 🔝 Top Contributions
 
 ![](https://github-contributor-stats.vercel.app/api?username=kungfux&limit=4&combine_all_yearly_contributions=true&theme=city_lights) -->
-
-### 🛠️ Contributions
-
-<img src="https://raw.githubusercontent.com/kungfux/kungfux/output/snake.svg" alt="An animation of snake eating the github user contributions (like snake game)" />
