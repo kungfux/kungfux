@@ -1,4 +1,14 @@
-<img src="https://komarev.com/ghpvc/?username=kungfux&label=Profile%20views&color=blue&style=flat&abbreviated=true" alt="Profile views" align="right" />
+# Hi there ✌️ <img src="https://komarev.com/ghpvc/?username=kungfux&label=Profile%20views&color=blue&style=flat&abbreviated=true" alt="Profile views" align="right" />
+
+### ✍️ Latest posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Easy software updates](https://kungfux.github.io/posts/easy-software-updates/)
+- [YARP Transformations](https://kungfux.github.io/posts/yarp-transformations/)
+- [Custom web application for existing service](https://kungfux.github.io/posts/custom-web-application-for-existing-service/)
+- [Dive into development](https://kungfux.github.io/posts/dive-into-development/)
+- [Development Containers](https://kungfux.github.io/posts/development-containers/)
+<!-- BLOG-POST-LIST:END -->
 
 ### 📈 GitHub Stats
 
@@ -15,14 +25,18 @@
  </table>
 </div>
 
-### 🏆GitHub Trophy
+<!-- ### 🏆GitHub Trophy
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kungfux" alt="asd" /></a> </p>
+<div align="center">
+ <table border="0">
+  <tr>
+   <td>
+    <img src="https://github-profile-trophy.vercel.app/?username=kungfux&theme=nord&row=1" alt="GitHub Trophy" />
+   </td>
+  </tr>
+ </table>
+</div>
 
-### ✍️ Latest posts
-<!-- BLOG-POST-LIST:START -->
-- [Easy software updates](https://kungfux.github.io/posts/easy-software-updates/)
-- [YARP Transformations](https://kungfux.github.io/posts/yarp-transformations/)
-- [Custom web application for existing service](https://kungfux.github.io/posts/custom-web-application-for-existing-service/)
-- [Dive into development](https://kungfux.github.io/posts/dive-into-development/)
-<!-- BLOG-POST-LIST:END -->
+### 🔝 Top Contributions
+
+![](https://github-contributor-stats.vercel.app/api?username=kungfux&limit=4&combine_all_yearly_contributions=true&theme=city_lights) -->
