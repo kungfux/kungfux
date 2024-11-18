@@ -3,11 +3,11 @@
 ### ✍️ Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Git cheat sheet](https://kungfux.github.io/posts/git-cheat-sheet/)
 - [Easy software updates](https://kungfux.github.io/posts/easy-software-updates/)
 - [YARP Transformations](https://kungfux.github.io/posts/yarp-transformations/)
 - [Custom web application for existing service](https://kungfux.github.io/posts/custom-web-application-for-existing-service/)
 - [Dive into development](https://kungfux.github.io/posts/dive-into-development/)
-- [Development Containers](https://kungfux.github.io/posts/development-containers/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📈 GitHub Stats
