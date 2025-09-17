@@ -3,11 +3,11 @@
 ### ✍️ Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building an AI Chat with RAG Integration](https://kungfux.github.io/posts/building-an-ai-chat-with-rag-integration/)
 - [Will AI replace developers?](https://kungfux.github.io/posts/will-ai-replace-developers/)
 - [Git cheat sheet](https://kungfux.github.io/posts/git-cheat-sheet/)
 - [Easy software updates](https://kungfux.github.io/posts/easy-software-updates/)
 - [YARP Transformations](https://kungfux.github.io/posts/yarp-transformations/)
-- [Custom web application for existing service](https://kungfux.github.io/posts/custom-web-application-for-existing-service/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🚀 Online apps
