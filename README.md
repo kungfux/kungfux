@@ -10,9 +10,10 @@
 - [YARP Transformations](https://kungfux.github.io/posts/yarp-transformations/)
 <!-- BLOG-POST-LIST:END -->
 
-### 🚀 Online apps
+### 🚀 Free apps
 
 - [Binary Timer & Countdown](https://kungfux.github.io/binarytimer/)
+- [Qupid - landing page generator](https://kungfux.github.io/qupid/)
 
 ### 📈 GitHub Stats
 
