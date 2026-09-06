@@ -14,6 +14,7 @@
 
 - [Binary Timer & Countdown](https://kungfux.github.io/binarytimer/)
 - [Qupid - landing page generator](https://kungfux.github.io/qupid/)
+- [Media gallery - web app for browsing photo albums and location-aware content](https://kungfux.github.io/media-gallery/)
 
 ### 📈 GitHub Stats
 
